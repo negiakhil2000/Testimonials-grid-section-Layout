@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/negiakhil2000/Testimonials-grid-section-Layout.git)
+- Solution URL: [https://github.com/negiakhil2000/Testimonials-grid-section-Layout.git]
 - Live Site URL: [](https://your-live-site-url.com)
 
 
